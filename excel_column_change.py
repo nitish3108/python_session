@@ -23,4 +23,4 @@ def run():
 	ofh.close()
 	print("Completed")
 
-#assert run() == None
+assert run() == None
